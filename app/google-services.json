@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34078292171",
+    "firebase_url": "https://cheppu-travel.firebaseio.com",
+    "project_id": "cheppu-travel",
+    "storage_bucket": "cheppu-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34078292171:android:8f21a92e225c110d",
+        "android_client_info": {
+          "package_name": "me.haxzie.tourbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34078292171-amj1toagl2issmjba0eh4nag0656gl8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.haxzie.tourbooking",
+            "certificate_hash": "cb6fd4cebf60a42fb53287154b62af765cf23030"
+          }
+        },
+        {
+          "client_id": "34078292171-s5066ffjg9j33f1jt0hl9vd81050ma6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPokGLNGybWD7BOwLROECV5SFC57DT1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34078292171-s5066ffjg9j33f1jt0hl9vd81050ma6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
